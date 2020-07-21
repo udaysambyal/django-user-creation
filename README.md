@@ -2,10 +2,10 @@
 User creation model using django
 
 
-for running first use migrate command:
-  python manage.py makemigrations
- then run,
-  python manage.py migrate
+For running first use migrate command:
+python manage.py makemigrations
+then run,
+python manage.py migrate
   
-after running this run:
-  python manage.py runserver
+ After running this run:
+ python manage.py runserver
